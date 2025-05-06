@@ -2,7 +2,7 @@
 
 A **responsive**, **themeable** Loan EMI Calculator built with **React** and **Material UI**, featuring **real-time currency conversion** via the [ExchangeRate API](https://www.exchangerate-api.com/).
 
-🌐 **Live Demo**: [.netlify.app](https://.netlify.app/)
+🌐 **Live Demo**: [intra- loan-calculator.netlify.app](https://intra-loan-calculator.netlify.app/)
 
 ---
 
